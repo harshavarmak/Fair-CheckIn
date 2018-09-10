@@ -1,0 +1,12 @@
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\bin\Debug\FairCheckIn.exe.config
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.vbprojResolveAssemblyReference.cache
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.CareerFair.resources
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.ManualInformation.resources
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.Resources.resources
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.vbproj.GenerateResource.Cache
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.xml
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\bin\Debug\FairCheckIn.exe
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\bin\Debug\FairCheckIn.pdb
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\bin\Debug\FairCheckIn.xml
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.exe
+c:\users\varmak\documents\visual studio 2015\Projects\FairCheckIn\FairCheckIn\obj\Debug\FairCheckIn.pdb
